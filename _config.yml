@@ -4,10 +4,10 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Perceiving at a distance
+subtitle: "Conference, University of Antwerp"
+email: maarten.steenhagen@uantwerpen.be
+name: Maarten Steenhagen
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/distal/" # the subpath of your site, e.g. /blog/
