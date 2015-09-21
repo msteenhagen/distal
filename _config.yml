@@ -64,8 +64,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "@TheBenCentra"
-    url: https://twitter.com/TheBenCentra
+    username: "@msteenhagen"
+    url: https://twitter.com/msteenhagen
     desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -73,7 +73,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: 
     url: 
     desc: Friend me on Facebook
     share_url: //www.facebook.com/sharer.php
@@ -82,8 +82,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: msteenhagen
+    url: https://github.com/msteenhagen
     desc: Fork me on GitHub
     share_url:
     share_title:
