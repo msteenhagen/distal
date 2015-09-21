@@ -355,7 +355,7 @@ pre code.hljs {
 	*	Site Navigation (left)
 	*/
 	.site-navigation {
-		margin-top: 2em;
+		margin-top: 1.5em;
 		@include span-columns(12);
 		@include media ($mobile) {
 			@include span-columns(6);
