@@ -372,7 +372,7 @@ pre code.hljs {
 	*	Contact Info (center)
 	*/
 	.site-contact {
-		margin-top: 2em;
+		margin-top: 4em;
 		@include span-columns(12);
 		@include media ($mobile) {
 			@include span-columns(6);
