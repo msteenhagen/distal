@@ -15,6 +15,11 @@ url: "http://msteenhagen.github.io/" # the base hostname & protocol for your sit
 cover: "assets/header_image.jpg"
 logo: "assets/logo3.png"
 
+# Footer logos
+logo1: ualogo.png
+logo2: camlogo.png
+logo3: templogo.png
+
 # Build settings
 markdown: kramdown
 paginate: 5
