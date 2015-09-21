@@ -355,6 +355,7 @@ pre code.hljs {
 	*	Site Navigation (left)
 	*/
 	.site-navigation {
+		vertical-align: middle;
 		@include span-columns(12);
 		@include media ($mobile) {
 			@include span-columns(6);
@@ -372,6 +373,7 @@ pre code.hljs {
 	*/
 	.site-contact {
 		margin-top: 1em;
+		vertical-align: middle;
 		@include span-columns(12);
 		@include media ($mobile) {
 			@include span-columns(6);
@@ -396,6 +398,7 @@ pre code.hljs {
 	*/
 	.site-signature {
 		margin-top: 1em;
+		vertical-align: middle;
 		@include span-columns(12);
 		@include media ($tablet) {
 			@include span-columns(4);
