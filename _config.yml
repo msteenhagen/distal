@@ -16,13 +16,13 @@ cover: "assets/header_image.jpg"
 logo: "assets/logo3.png"
 
 # Footer logos
-sponsorline: This project is supported by:
+sponsorline: "This project is supported by:"
 logo1: ualogo.png
-sponsor1: http://www.uantwerp.be
+sponsor1: "http://www.uantwerp.be"
 logo2: camlogo.png
-sponsor2: http://www.cam.ac.uk
+sponsor2: "http://www.cam.ac.uk"
 logo3: templogo.png
-sponsor3: http://www.johntempleton.org
+sponsor3: "http://www.johntempleton.org"
 
 # Build settings
 markdown: kramdown
