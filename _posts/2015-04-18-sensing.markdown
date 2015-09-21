@@ -3,8 +3,7 @@ layout: post
 title:  "Sensing without contact? "
 date:   2015-09-21 08:43:59
 author: Maarten Steenhagen
-categories: Conference
-tags:	jekyll welcome 
+categories: Motivations
 cover:  "assets/instacode.png"
 ---
 
