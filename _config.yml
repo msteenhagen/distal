@@ -12,7 +12,7 @@ description: >
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/distal/" # the subpath of your site, e.g. /blog/
 url: "http://msteenhagen.github.io/" # the base hostname & protocol for your site
-cover: "assets/distance3.jpg"
+cover: "assets/header_image.jpg"
 logo: "assets/logo3.png"
 
 # Footer logos
