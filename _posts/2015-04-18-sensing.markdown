@@ -19,7 +19,7 @@ This sort of innovative work on capacities, interaction, and causation has not y
 
 Arguments now popular in the philosophy of perception, for example about phenomenal character or hallucination, address a different problem, namely the nature of human consciousness per se. This focus exaggerates the importance of subjective aspects of perceiving and ignores the centrality of the specific ability to perceive distant things. Philosophers of perception currently fail to regard perceiving at a distance as a phenomenon of distinct interest, and accordingly fail to notice how poorly the currently dominant picture of the mind chimes with the possibilities afforded by vital forms of perception. This signals a gap in theorising.
 
-<img src="/assets/distance2.jpg" width="100%">
+<img src="distal/assets/distance2.jpg" width="100%">
 
 # Frustrating assumptions
 
